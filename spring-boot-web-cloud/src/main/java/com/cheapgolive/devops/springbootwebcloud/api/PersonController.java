@@ -4,7 +4,7 @@ import com.cheapgolive.devops.springbootwebcloud.model.Person;
 import org.springframework.web.bind.annotation.*;
 
 /**
- * Created by eml2s on 9/26/2017.
+ * Created by  cheapgolive-devops on 9/26/2017.
  */
 @RestController
 @RequestMapping("/api")
