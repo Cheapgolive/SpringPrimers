@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.cheapgolive.SpringPrimers</groupId>
-	<artifactId>sampleWeb-Cloud</artifactId>
+	<artifactId>spring-primers</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>sampleWeb-Cloud</name>
+	<name>spring-primers</name>
 	<description>Demo project for Spring Boot</description>
 
 	<parent>
